@@ -15,7 +15,7 @@
 
 <h2 align="left">My Github Statistics <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width = 48px> </h2>
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvanLianto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IvanLianto&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jstar08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jstar08&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
