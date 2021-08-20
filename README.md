@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanLianto&label=Profile%20views&color=0e75b6&style=flat" alt="IvanLianto" /> </p>
 
 - 🌱 I’m currently learning **Android and Game Development**
-- 📫 Reach me at **joesibarani@gmail.com**
+- 📫 Reach me at **joesibarani2000@gmail.com**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
