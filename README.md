@@ -1,7 +1,7 @@
 <h1 align="center">What's up? Jstar08 here!!!</h1>
-<h3 align="center">college student at Brawijaya University, Computer Science Faculty</h3>
+<h3 align="center">Android Developer at Visionplus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanLianto&label=Profile%20views&color=0e75b6&style=flat" alt="IvanLianto" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jstar08&label=Profile%20views&color=0e75b6&style=flat" alt="jstar08" /> </p>
 
 - 🌱 I’m currently learning **Android and Game Development**
 - 📫 Reach me at **joesibarani2000@gmail.com**
