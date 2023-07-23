@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstar08&label=Profile%20views&color=0e75b6&style=flat" alt="jstar08" /> </p>
 
-- 🌱 I’m currently learning **Android and Game Development**
+- 🌱 I’m currently learning and working on **Android Development**
 - 📫 Reach me at **joesibarani2000@gmail.com**
 
 <h2 align="left">Connect with me</h2>
